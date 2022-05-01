@@ -1,1 +1,1 @@
-1.8,https://notepad.pw/neroop
+1.8,https://raw.githubusercontent.com/Rexhacks/main/main/mainso.py
